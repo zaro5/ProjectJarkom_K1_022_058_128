@@ -1,0 +1,18 @@
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Packet Tracer backup files
+*.pkt?
+*.bak
+*~
+
+# Spreadsheet binary backup
+*.xlsb
+~$*.xlsx
+
+# Editor
+.vscode/
+.idea/
+CLAUDE.md

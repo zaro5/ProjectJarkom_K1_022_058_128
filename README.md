@@ -6,11 +6,11 @@
 
 **Kelompok:** K-1 **Base IP Kelompok:** `10.8.0.0/16` **Skema yang dipakai:** VLSM **Domain internal:** `k1.smartcity.lab` **Tools:** Cisco Packet Tracer 9.0.1
 
-> Muhammad Satrio Utomo \| NRP 5027251022
-
-> Azita Zahwa Zahida Asmoro \| NRP 5027251058
-
-> Atik Putri Matulina \| NRP 50227251128
+| | | |
+|---|---|---|
+| 1 | Muhammad Satrio Utomo | NRP 5027251022 |
+| 2 | Azita Zahwa Zahida Asmoro | NRP 5027251058 |
+| 3 | Atik Putri Matulina | NRP 5027251128 |
 
 ---
 
@@ -205,7 +205,7 @@ Klik perangkat → tab ① **Desktop** → ② **Command Prompt**. (③ **IP Con
 
 ## Soal 1
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **022**
 
 ### Soal
 
@@ -480,7 +480,7 @@ R-DC     Serial0/0/0 : DTE V.35 TX and RX clocks detected
 
 ## Soal 2
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **022**
 
 ### Soal
 
@@ -515,7 +515,7 @@ Rincian lengkap 11 baris tersedia di sheet `3_Efisiensi_dan_Revisi`.
 
 ## Soal 3
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **022**
 
 ### Soal
 
@@ -666,7 +666,7 @@ Pada setiap gambar: ① balasan `Reply from ...`, ② statistik `0% loss`.
 
 ## Soal 4
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **058**
 
 ### Soal
 
@@ -795,7 +795,7 @@ Simpan: `end` → `copy running-config startup-config`.
 
 ## Soal 5
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **058**
 
 ### Soal
 
@@ -909,7 +909,7 @@ Artinya: alamat yang cocok dengan ACL `PEGAWAI-SEANGKATAN` diterjemahkan ke IP m
 
 ## Soal 6
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **058**
 
 ### Soal
 
@@ -1048,7 +1048,7 @@ write
 
 ## Soal 7
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **128**
 
 ### Soal
 
@@ -1156,7 +1156,7 @@ R-ISP **tetap tidak diikutkan OSPF** dan tidak diberi rute privat (syarat soal 5
 
 ## Soal 8
 
-> Dikerjakan Oleh: **[nama anggota — diisi]**
+> Dikerjakan Oleh: **128**
 
 ### Soal
 
